@@ -6,7 +6,6 @@
 
 ![Image of Developer](http://i0.wp.com/blog.udacity.com/wp-content/uploads/2015/02/DeathtoStock_Wired2-e1422990683568.jpg?resize=640%2C427)
 
-
 *Figure 1*: Developer image (source: Udacity Blog, 2015)
 
 ___
@@ -64,7 +63,6 @@ ___
 
 
 ![Image of Goals](http://i1.wp.com/blog.udacity.com/wp-content/uploads/2015/03/goals_education5.png?resize=640%2C445)
-
 
 *Figure 2*: My Goals (source: Udacity Blog, 2015)
 
