@@ -69,7 +69,7 @@ ___
 ___
 
 
-###  There where lots of types of goals that i had in my mind, but this [four step exercise article from Udacity blog][1], helped me norrow down my goals to 3 specific main goals.
+**There where lots of types of goals that i had in my mind, but this [four step exercise article from Udacity blog][1], helped me norrow down my goals to 3 specific main goals.**
 
 
 1. > To become a Front-End Developer at [Media Monks][2] or a similar company.
@@ -81,7 +81,7 @@ ___
 3. > My own start up idea that i have, and want to build.
 
 
-###  I have identify the paths to my goals, i've done the research, and i know how to accomplish my sub-goals. I have considered my situation, my background, my abilities, and the constraints that are specific to my needs. The fact that i'm writing this project it means that i'm on the right path of my goals.
+**I have identify the paths to my goals, i've done the research, and i know how to accomplish my sub-goals. I have considered my situation, my background, my abilities, and the constraints that are specific to my needs. The fact that i'm writing this project it means that i'm on the right path of my goals.**
 
 
 
