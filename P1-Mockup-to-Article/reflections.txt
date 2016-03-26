@@ -1,0 +1,30 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+   
+    - While i was researching and experimenting on "superscript," "horizontal rule," and "strikethrough," 
+      i found and started to learn about new elements like forms, interactive elements, and web components.
+
+* What has been easy?
+
+
+    - Basic HTML elements, sectioning, text content, and metadata, most of them i had encountered before
+      and are easy to remember.
+
+* What has been difficult?
+  
+
+    - Some elements in forms, inline text semantics, and interactive elements where hard to remember.
+      Also what i think is a little bit difficult to learn but beautiful in the same time, is to define
+      new types of HTML elements "custom elements."
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+    - I used google to research for elements, resource like the MDN element reference website, 
+      tutorials like html5rocks, and tools like codepen.io to test and experiment with the new tags elements.
+      By using the skills, resources, tools, and a growth mindset, i have embraced and overcome every challanges so far.
